@@ -1,0 +1,11 @@
+﻿Build started 2017/2/23 16:20:53.
+     1>Project "E:\Projects\vibe\vibe\vibe.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VIBE.cpp
+         VIBE.cpp
+     1>e:\projects\vibe\vibe\vibe.cpp(1): fatal error C1083: Cannot open include file: 'vibe.hpp': No such file or directory
+     1>Done Building Project "E:\Projects\vibe\vibe\vibe.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.30
